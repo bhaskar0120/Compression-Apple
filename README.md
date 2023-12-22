@@ -1,4 +1,4 @@
-# Converter Apple
+# Compression Apple
 Some file compression techniques explained by making _Bad Apple_ in the terminal.
 
 ### How does this work?
